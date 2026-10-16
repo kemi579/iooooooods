@@ -3,6 +3,8 @@
 Каркас приложения для переподписи IPA своим сертификатом (.p12 + .mobileprovision).
 Собирается на GitHub Actions, Xcode на своём компьютере не нужен.
 
+**Bundle ID:** `com.iosfreedom.swissknife` (переиспользован существующий App ID, чтобы не тратить новый слот на бесплатном Apple ID).
+
 ## Как получить IPA
 1. Создай репозиторий на github.com (public, чтобы Actions были бесплатными).
 2. Залей в него все файлы из этой папки (в корне должны лежать `project.yml`, `SideloaderApp/` и `.github/`).
