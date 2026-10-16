@@ -11,7 +11,7 @@ targets:
       - SideloaderApp
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.iosfreedom.swissknife
+        PRODUCT_BUNDLE_IDENTIFIER: com.iosfreedom.swissknife.app.QAP6766QQP
         SWIFT_VERSION: "5.0"
         MARKETING_VERSION: "1.0"
         CURRENT_PROJECT_VERSION: "1"
